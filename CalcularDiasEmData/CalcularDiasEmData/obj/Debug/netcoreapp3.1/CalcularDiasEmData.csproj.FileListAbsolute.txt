@@ -1,0 +1,14 @@
+C:\Users\marcu\source\repos\CalcularDiasEmData\CalcularDiasEmData\bin\Debug\netcoreapp3.1\CalcularDiasEmData.exe
+C:\Users\marcu\source\repos\CalcularDiasEmData\CalcularDiasEmData\bin\Debug\netcoreapp3.1\CalcularDiasEmData.deps.json
+C:\Users\marcu\source\repos\CalcularDiasEmData\CalcularDiasEmData\bin\Debug\netcoreapp3.1\CalcularDiasEmData.runtimeconfig.json
+C:\Users\marcu\source\repos\CalcularDiasEmData\CalcularDiasEmData\bin\Debug\netcoreapp3.1\CalcularDiasEmData.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\CalcularDiasEmData\CalcularDiasEmData\bin\Debug\netcoreapp3.1\CalcularDiasEmData.dll
+C:\Users\marcu\source\repos\CalcularDiasEmData\CalcularDiasEmData\bin\Debug\netcoreapp3.1\CalcularDiasEmData.pdb
+C:\Users\marcu\source\repos\CalcularDiasEmData\CalcularDiasEmData\obj\Debug\netcoreapp3.1\CalcularDiasEmData.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\CalcularDiasEmData\CalcularDiasEmData\obj\Debug\netcoreapp3.1\CalcularDiasEmData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\source\repos\CalcularDiasEmData\CalcularDiasEmData\obj\Debug\netcoreapp3.1\CalcularDiasEmData.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\CalcularDiasEmData\CalcularDiasEmData\obj\Debug\netcoreapp3.1\CalcularDiasEmData.AssemblyInfo.cs
+C:\Users\marcu\source\repos\CalcularDiasEmData\CalcularDiasEmData\obj\Debug\netcoreapp3.1\CalcularDiasEmData.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\CalcularDiasEmData\CalcularDiasEmData\obj\Debug\netcoreapp3.1\CalcularDiasEmData.dll
+C:\Users\marcu\source\repos\CalcularDiasEmData\CalcularDiasEmData\obj\Debug\netcoreapp3.1\CalcularDiasEmData.pdb
+C:\Users\marcu\source\repos\CalcularDiasEmData\CalcularDiasEmData\obj\Debug\netcoreapp3.1\CalcularDiasEmData.genruntimeconfig.cache
